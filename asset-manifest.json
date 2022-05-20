@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restraurant_menu/static/css/main.17655c3c.css",
+    "main.js": "/restraurant_menu/static/js/main.5cc866e9.js",
+    "index.html": "/restraurant_menu/index.html",
+    "main.17655c3c.css.map": "/restraurant_menu/static/css/main.17655c3c.css.map",
+    "main.5cc866e9.js.map": "/restraurant_menu/static/js/main.5cc866e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.5cc866e9.js"
+  ]
+}
